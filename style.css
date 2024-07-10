@@ -33,7 +33,7 @@ body{
     gap: 1rem;
 }
 .stars i{
-    color: #e6e6e6;
+    color: #72a98a;
     font-size:1.5rem;
     cursor: pointer;
     transition: color 0.2s ease;
